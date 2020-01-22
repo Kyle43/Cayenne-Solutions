@@ -1,0 +1,53 @@
+Project Description: 
+
+The proposed project consists of a web-based platform for the applications surrounding the course: Theory of Computing, which 
+is currently being taught by the University of the West Indies, St. Augustine campus, mainly for the students pursuing a 
+degree in Computer Science. This web based platform aims to increase the number of participants who are interested in pursuing the 
+theory of computing course while acquiring a clearer and vivid descriptive analysis particularly on how the process of NFA’s 
+(Non- Deterministic Finite Automata) and DFA’s (Deterministic Finite Automata) fundamentals are achieved. The application will
+be based on the user firstly drawing any finite automata which will then be verified by the web-based platform to ensure its
+validity. Once this step is completed and the automata is indeed verified, the user will be able to input any random strings 
+which will then be processed by the automata to determine whether or not the entered string given by the user is valid or not.
+Users of this platform will enhance their understandings of finite automata by the “Trace Through” feature which will be 
+incorporated, to enhance the users understanding on how the basis of the automata works. The objective of this initiative is 
+to allow users who are currently pursuing the course or may have an interest in the course to adapt a more practical approach 
+on how the automata work thereby resulting to a more acquired knowledge on 
+the course material.  
+
+
+
+
+
+Project Scope Statement: 
+
+Justification/Objectives: 
+The products that will be incorporated in the design on this project will be any computer with access to the internet. The
+outline of the web platform will consist of interested persons together with users who are to undergo the completion of the 
+course Theory of Computing, will have a clearer and descriptive knowledge on the basic fundamentals needed in understanding 
+Finite Automata. A user can create a finite state machine and use the “Trace Through” feature to determine which strings 
+are accepted by the machine and which strings will be rejected. The user will also observe through visual representation 
+how the completion is executed with each string entered which are valid. The invalid strings entered by the user will also
+be seen through visual representation, the reasons why the string is invalid as it relates to the finite automata. The web
+platform will also consist of an export feature which will enable users to save the current file they are currently working
+on or download the finite state machine diagram to facilitate for offline use whether it comprises of in class discussion
+or a further explanation on the understanding of these finite state machines. A “Minimization” feature will also be 
+implemented to eliminate unnecessary states of machines in order to optimize the relevant NFA or DFA that a user designed.
+
+
+
+Acceptance Criteria: 
+Conditions that should be fulfilled by the web based platform will be a working model on the verification of the finite 
+state machine entered by the user together with a Trace Through visual representation on the validity of the strings 
+entered by the user as it relates to the finite state machine. There will be an output which will showcase to the user 
+which strings entered are considered to be a valid or invalid string.  
+
+Constraints: 
+Limitations for this project will consist of users of the web-based platform being introduced to only the fundamentals 
+needed as it relates to the topics needed by the course outline, excluding the more in-depth aspects of the finite automata.
+However, over time the features of the application can be extended to include additional functionalities incorporating
+more complex automata concepts.
+
+Project Beneficiaries: 
+The project beneficiaries will consist mainly of students who are entitled to complete the theory of Computing as part of 
+the requirements for they degree. The project will also facilitate those users who are interested in learning about
+finite state machines which in terms, will increase the overall participation and interest of the Theory of Computing course. 
