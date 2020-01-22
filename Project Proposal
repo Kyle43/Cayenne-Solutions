@@ -14,10 +14,6 @@ to allow users who are currently pursuing the course or may have an interest in 
 on how the automata work thereby resulting to a more acquired knowledge on 
 the course material.  
 
-
-
-
-
 Project Scope Statement: 
 
 Justification/Objectives: 
@@ -33,21 +29,22 @@ on or download the finite state machine diagram to facilitate for offline use wh
 or a further explanation on the understanding of these finite state machines. A “Minimization” feature will also be 
 implemented to eliminate unnecessary states of machines in order to optimize the relevant NFA or DFA that a user designed.
 
-
-
 Acceptance Criteria: 
+
 Conditions that should be fulfilled by the web based platform will be a working model on the verification of the finite 
 state machine entered by the user together with a Trace Through visual representation on the validity of the strings 
 entered by the user as it relates to the finite state machine. There will be an output which will showcase to the user 
 which strings entered are considered to be a valid or invalid string.  
 
 Constraints: 
+
 Limitations for this project will consist of users of the web-based platform being introduced to only the fundamentals 
 needed as it relates to the topics needed by the course outline, excluding the more in-depth aspects of the finite automata.
 However, over time the features of the application can be extended to include additional functionalities incorporating
 more complex automata concepts.
 
 Project Beneficiaries: 
+
 The project beneficiaries will consist mainly of students who are entitled to complete the theory of Computing as part of 
 the requirements for they degree. The project will also facilitate those users who are interested in learning about
 finite state machines which in terms, will increase the overall participation and interest of the Theory of Computing course. 
